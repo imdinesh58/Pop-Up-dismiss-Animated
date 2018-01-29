@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "db9221314de5b7fe62ff44b5377728c0"
+build_time: [1516794893, 436379000]
+inputs:
+  "/Users/apple-1/Downloads/Swift-Pop-Up-View-Tutorial-master/PopUp/ViewController.swift": [1485638196, 0]
+  "/Users/apple-1/Downloads/Swift-Pop-Up-View-Tutorial-master/PopUp/PopUpViewController.swift": [1485638196, 0]
+  "/Users/apple-1/Downloads/Swift-Pop-Up-View-Tutorial-master/PopUp/AppDelegate.swift": [1485638196, 0]
